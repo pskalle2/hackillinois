@@ -29,7 +29,7 @@ def main():
         for class_name in recommendations:
             print(f"- {class_name}")
     else:
-        print("Sorry, no recommendations for the given preferences.")
+        print("Please select one of the listed preferences.")
 
 if __name__ == "__main__":
     main()
