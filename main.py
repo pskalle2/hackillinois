@@ -1,4 +1,5 @@
 import pandas as pd
+
 def recommend_classes(user_input):
     classes_recommendations = {
         "programming": ["Introduction to Programming", "Advanced Python", "Java Basics"],
